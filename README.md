@@ -4,7 +4,7 @@ Tugas Mandiri Terstruktur · Visualisasi Data dan Informasi · Informatika
 
 | | |
 |---|---|
-| **Nama / NIM** | _Zaidan RIziq Hibatulwafi_ / _230660121088_ |
+| **Nama / NIM** | _Zaidan Riziq Hibatulwafi_ / _230660121088_ |
 | **Live App** | _https://vdi-kemiskinan-multidbms.streamlit.app/_ |
 | **Repositori** | _https://github.com/Zaidan129/vdi-kemiskinan-multidbms_ |
 
